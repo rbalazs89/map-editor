@@ -1,0 +1,149 @@
+[
+  {
+    "imageWidth": 320,
+    "worldX": 2240,
+    "worldY": 1600,
+    "name": "house1",
+    "imageHeight": 448
+  },
+  {
+    "imageWidth": 320,
+    "worldX": 2816,
+    "worldY": 128,
+    "name": "starttent",
+    "imageHeight": 192
+  },
+  {
+    "imageWidth": 192,
+    "worldX": 832,
+    "worldY": 64,
+    "name": "tent_2",
+    "imageHeight": 192
+  },
+  {
+    "imageWidth": 192,
+    "worldX": 832,
+    "worldY": 320,
+    "name": "3desk",
+    "imageHeight": 64
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1152,
+    "worldY": 64,
+    "name": "barrel2",
+    "imageHeight": 64
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 896,
+    "worldY": 384,
+    "name": "smallchair2",
+    "imageHeight": 64
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 768,
+    "worldY": 128,
+    "name": "logs",
+    "imageHeight": 64
+  },
+  {
+    "imageWidth": 256,
+    "worldX": 512,
+    "worldY": 64,
+    "name": "carriage",
+    "imageHeight": 192
+  },
+  {
+    "imageWidth": 128,
+    "worldX": 0,
+    "worldY": 0,
+    "name": "cave2",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 83,
+    "worldX": 1459,
+    "worldY": 1472,
+    "name": "statue",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 576,
+    "worldX": 320,
+    "worldY": 1024,
+    "name": "churcha1",
+    "imageHeight": 448
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 2176,
+    "worldY": 1984,
+    "name": "shopsign",
+    "imageHeight": 64
+  },
+  {
+    "imageWidth": 320,
+    "worldX": 2240,
+    "worldY": 2240,
+    "name": "house2",
+    "imageHeight": 448
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 1728,
+    "name": "fruittree",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 1856,
+    "name": "fruittree",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 1984,
+    "name": "fruittree",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 2112,
+    "name": "fruittree",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 2240,
+    "name": "fruittree",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 2368,
+    "name": "fruittree",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 2496,
+    "name": "fruittree",
+    "imageHeight": 128
+  },
+  {
+    "imageWidth": 64,
+    "worldX": 1536,
+    "worldY": 2624,
+    "name": "fruittree",
+    "imageHeight": 128
+  }
+]
